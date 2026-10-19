@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "product": "LinBainuoToolbox",
+  "build": 14,
+  "version": "V0.0.2 beta",
+  "tag": "v0.0.2",
+  "downloadUrl": "https://github.com/Linbainuo/toolbox-releases/releases/download/v0.0.2/LinBainuoToolbox.exe",
+  "sha256": "38d1c12dacbff47dde383e2ec42ae063bf3884d607a0add796e54dc880c664cb",
+  "size": 53833728,
+  "notes": "- 新增紧急修复功能，重要修复自动生效；\n- 优化整包更新流程，更新后自动重启；\n- 修复一些已知问题。\n",
+  "mandatory": true
+}
