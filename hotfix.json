@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "revision": 8,
+  "revision": 9,
   "minimumBuild": 22,
-  "maximumBuild": 29,
+  "maximumBuild": 30,
   "contract": 1,
-  "size": 1757184,
+  "size": 1787904,
   "product": "LinBainuoToolbox",
   "channelId": "stable",
-  "id": "toolbox-blender-ai-8",
+  "id": "toolbox-blender-ai-9",
   "scope": "stager-and-painter",
-  "sha256": "83f07878950abcfad3ac8b9ce2d0924381b25634a700db7da6dfcda433fc92ae",
-  "signature": "t1Q0+NmKIBg55UWXZgIRbeJn75YMAKZRQpgOweYFM1WUsW6eqZMZdMXekstqc3LasMjUk498rvubZCm0EYZlwj4cAb5oJSIkpsWDg/sOz5ytFRjVVyDtJR8HK3GefdTv+AuxEu0dkInfuNyugZYrb69CnCLErsN3+wHkGl65jyLv9Irmln8SIqnUc3KRPSfGegRCbA+lqs6m4tiHGIShIcJvCCp9/Jfdy7pOLQbobAruaiLyfwauOdWh6BRsyQJu/htrGked4SJv37oTy05E+QyxDQjZD75l1+QeSCEiR8+1w9g8sifXOxXGm70UoPM0Ef1bVzY65c6L/d06tpg1zg==",
+  "sha256": "6d0b7b33b6c28a5fb8f740c2674227dd069abf10f2f70ad0a7d0d083eca6dfd7",
+  "signature": "ajXTjen0Gv+kM5N2OJnNl9ttiaI35kWkOs00OSMK8WlhOQROq3sk53KQhtPPGD6+syWm11pKUnk8X2B8KhaJ2TrkKvRxCT21xM+cpk7XuU3rRR1eEzvVgRAxqYBIMTiXdJeC+/No9JFHQr25vRALDazW0xWbW7GGQKjwFed2FfwtREaHo+XH5sFyyFksTD8gnPjRApbopj/roZSWpjEhoTi4al7vdR7fzmMfHSKQKYjcJa2Yix2VsyBCgjad/mqMUk/XPa0fBhTnmumPw7UfKPitppiniuwtqdlgW+Vj0q4amCFMQjpUEshRaL1rGcNg8W00piJojbAYbxFrGxj8dA==",
   "notes": "修复一些已知问题。"
 }
