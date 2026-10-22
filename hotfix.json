@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "revision": 4,
+  "minimumBuild": 22,
+  "maximumBuild": 23,
+  "contract": 1,
+  "size": 488448,
+  "product": "LinBainuoToolbox",
+  "channelId": "stable",
+  "id": "toolbox-blender-4",
+  "scope": "stager-and-painter",
+  "sha256": "395e33b0ccffe08548c41421a3f90a118aea5065ef184484bd6ee899cce73bcb",
+  "signature": "hihfcFoQPStLGjFUp5rzeRGhG1qYkCVEaGeSPM8isR8lOI+Kh+ikp5Hz/saETiiJITggER8H78HhR9/DmcPElBGplRs0rIyEq2i8KRlr5r/RqzZsO3hKgUcvjmmZV0qsz0xTEBVpgM8eHetKKMypRKDEzdIk+VeMFllN97K0xKtBB9gq9i6KeXJctAeV+tpVAbD/wy7J6HM04jbhlXgSDutVjN4LxPNJ+ZhrbuZgDFilUT5rjwUXwpeC8QfKiMCNWQFZC2359gVFDrkWVpI/fWLZcze7gHe9zEoeoOeK18X4F/gUA0iYKygT3fNbOSBnY6JLK/iPyi3z0qdGhhPCQg==",
+  "notes": "修复一些已知问题。"
+}
