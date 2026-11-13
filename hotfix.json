@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "revision": 15,
+  "revision": 16,
   "minimumBuild": 22,
-  "maximumBuild": 47,
+  "maximumBuild": 49,
   "contract": 1,
-  "size": 3630592,
+  "size": 3638272,
   "product": "LinBainuoToolbox",
   "channelId": "stable",
-  "id": "toolbox-blender-ai-15",
+  "id": "toolbox-blender-ai-16",
   "scope": "stager-and-painter",
-  "sha256": "5ea247439652ae4f236fe4da5cc931e20da86d106d037c0cf6d2998c3979ccbb",
-  "signature": "TlNg/Y0ypRFwu8lfBtQ2EwIc9MzulQ19942WyHlDS6kufJLere04zGi2sLzw56eqNDvDR95B6+EOvg7WH67ANK9u/fMVM8szQ/Vbk07k0mgJghMoyJlyAFsirI4Wqiz5SIcpZZFBwV8rPilkxTTIDCHxPzfsvYJ+NvKPFy8BQUO54ZXsjfp5nkWzqzgH9VU7ft2Cih0tPm4EWFe5LZqCnaVKnFMPPmMXtBBQmsuoXv0BjI5xlFVWE5CLgmRK+spheb5ay0q6++YQ7xJUylVcvA3tXAOb7+xli9Q4Qxt3sc2Ay3iHUD7kCJSoLnMfBjifCyxNgU82WN1UcIXuLHRYxQ==",
-  "notes": "修复一些已知修复"
+  "sha256": "f76aa84ff3301395684f46f8fd372084d773f43367f043533f4438028aa3ec2b",
+  "signature": "oiuPy+Xmd8Nf6s+oO/5XPgOSnHBednryGdTUgArwQNaMHofGCmUDyGa695xJCm8xLntyvs2f4/xh5rrqkHZzTAcuelJWu3Ks2EbjCNBLSf1LRlaolsYdPRzHIBDGKzHMyJPOWmVfFsZ5YicgY+dKxWt2VNHVArU2XyDd3h2XZm4J5lV4S5KcCVfIzeooZzYXvVGaWac9QTfgCGwFIT9vFSOunwny44WrMJlOusymWy+5CpYIa4pyN24ezWboKXSC4KVZaZXde40EHb3ZO/V+3Bl1GlFcrFq+eiHKleIw5iR7K09S0L/Ac4wUyLIok4NK/+OiUw5PBt+jIR8RGVzxDw==",
+  "notes": "修复旧版 Stager 缺少安装记录时无法修复的问题"
 }
