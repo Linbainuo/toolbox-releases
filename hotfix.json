@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "revision": 16,
+  "revision": 17,
   "minimumBuild": 22,
-  "maximumBuild": 49,
+  "maximumBuild": 51,
   "contract": 1,
-  "size": 3638272,
+  "size": 3873280,
   "product": "LinBainuoToolbox",
   "channelId": "stable",
-  "id": "toolbox-blender-ai-16",
+  "id": "toolbox-blender-ai-17",
   "scope": "stager-and-painter",
-  "sha256": "f76aa84ff3301395684f46f8fd372084d773f43367f043533f4438028aa3ec2b",
-  "signature": "oiuPy+Xmd8Nf6s+oO/5XPgOSnHBednryGdTUgArwQNaMHofGCmUDyGa695xJCm8xLntyvs2f4/xh5rrqkHZzTAcuelJWu3Ks2EbjCNBLSf1LRlaolsYdPRzHIBDGKzHMyJPOWmVfFsZ5YicgY+dKxWt2VNHVArU2XyDd3h2XZm4J5lV4S5KcCVfIzeooZzYXvVGaWac9QTfgCGwFIT9vFSOunwny44WrMJlOusymWy+5CpYIa4pyN24ezWboKXSC4KVZaZXde40EHb3ZO/V+3Bl1GlFcrFq+eiHKleIw5iR7K09S0L/Ac4wUyLIok4NK/+OiUw5PBt+jIR8RGVzxDw==",
-  "notes": "修复旧版 Stager 缺少安装记录时无法修复的问题"
+  "sha256": "0e18a6f1545477d933f827995204f52ff3fc7ae4c3e3067e9daca9c5871914bf",
+  "signature": "i2U8AWX6qRMw+XPdNuMvIKwT8Dj/zQOdH7U9Ld5D3XUafmxM1W1igpotoflWW7XJrVx9HWNHYCciNGKqWQWO5lhTy0VzII3WcUwkTIPTj9W+H5iuC4kjauSWnRuW0hEXl2c5PJv0YPoz1tjfpZLfeZ16IOko/iNbBy1Ce8wNtoDuNIEu4D7d719aueqaNCerTDiex29D+v7XExnUQsGwVAPZx58C+aqma2zwBFaXDGWeR1OCerJgJUUoCLysNXRRGhNOZ9oBbv/tbTey02q1lMNjCdA1Txdv+4zZAFBkcqP1FXyneluO30SnuesAKPb6e1J0QaxVvdeAEUrt0y45UA==",
+  "notes": "优化 Stager 安装流程，减少 PowerShell 重复启动及安装等待。"
 }
