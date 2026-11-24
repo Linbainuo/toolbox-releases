@@ -7,7 +7,7 @@
   "downloadUrl": "https://github.com/Linbainuo/toolbox-releases/releases/download/v0.0.3-r3/LinBainuoToolbox.exe",
   "sha256": "06c672155b793e5528fcca4da9bc1fcda02c865c4d4874945cc32ae5e082b98e",
   "size": 72364544,
-  "notes": "更新受保护目录中的工具箱时，点击「立即更新」会先下载并校验安装包，再请求 Windows 管理员授权，在原位置安装并重新启动。\n旧版若已出现“访问被拒绝”，保持该工具箱打开，运行本次发布的 LinBainuoToolboxSetup.exe 即可首次修复。\n",
+  "notes": "请直接在工具箱里点「立即更新」，工具箱会自动下载、校验并安装新版。\n如果旧版提示无法写入 .toolbox-update 临时文件，请点「稍后更新」并完全退出。右键原安装位置的工具箱，选「以管理员身份运行」，同意 Windows 授权后，再点「立即更新」。\n这次升级完成后，照常打开工具箱即可。后续更新需要权限时，工具箱会直接弹出 Windows 授权框，在原位置完成更新。\n",
   "mandatory": false,
   "releaseSignature": "ZVk4tgX6iJigJEL3A3bXWwLtr3r7D+HQQN3y04EphfZ4Pf3FkMqwej5EQ+RrjZEKClfOG7MoTCEIvVstarw/KBetsiEM1oTewmHEql3vyh60njjAKGkpEdOFcz0FFKcYi2VGL5iHazEHXiW5ZZfmBURthYFajAEUWEZ7HdnG+7JkZZZcqoEitY9xtYWUS3JRLzk4hnHeGTVYrvVRc1nCaarI/ecb0cKvIMcdD2dWzuTubRjN41KLGnlwCngdQuselBgeudbfDwjOcQT+K99I0UosNTZsvgo9CreiMxN3tHLt2VoMJmVi6tZ5ic9naMxFhlOUmf0v0YJ7Z8pPTgA84Q==",
   "machineSize": 67522560,
