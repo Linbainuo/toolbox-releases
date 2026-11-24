@@ -1,13 +1,17 @@
 {
   "schema": 1,
   "product": "LinBainuoToolbox",
-  "build": 53,
+  "build": 54,
   "version": "V0.0.3 beta",
-  "tag": "v0.0.3-r2",
-  "downloadUrl": "https://github.com/Linbainuo/toolbox-releases/releases/download/v0.0.3-r2/LinBainuoToolbox.exe",
-  "sha256": "315d4fe569259fed480bbb7f84f70cf9d6d155fe0c77b4e29349671e0c64ef17",
-  "size": 72346624,
-  "notes": "修复工具箱安装在 Program Files 等受限目录时更新失败的问题。新版会自动把更新安装到当前用户，并启动新版本。\n已经在旧版遇到“访问被拒绝”的用户，可运行本次发布的 LinBainuoToolboxSetup.exe。它会自动下载安装并创建工具箱快捷方式。\n",
+  "tag": "v0.0.3-r3",
+  "downloadUrl": "https://github.com/Linbainuo/toolbox-releases/releases/download/v0.0.3-r3/LinBainuoToolbox.exe",
+  "sha256": "06c672155b793e5528fcca4da9bc1fcda02c865c4d4874945cc32ae5e082b98e",
+  "size": 72364544,
+  "notes": "更新受保护目录中的工具箱时，点击「立即更新」会先下载并校验安装包，再请求 Windows 管理员授权，在原位置安装并重新启动。\n旧版若已出现“访问被拒绝”，保持该工具箱打开，运行本次发布的 LinBainuoToolboxSetup.exe 即可首次修复。\n",
   "mandatory": false,
-  "releaseSignature": "VFkvXtxiKqxteK3N2dP/8k5B4AXkDGAGxEAViKb5hJkN+LZZSEL43bhifbCzcbsHzN/9cj/vsY53bkyE43J3pnuanYatpv3QPZMG6R21Yzourr5ILqYBPOjlqc0WlTNCzQMck5CVlWxSHFVsbPJN3sgCIOPlo6hvupeaeHOa2pQojAqIkoyBlNKyzhjVhtivIglCTfMpIyU85KRV49Bsydxpy9jcP1t+KPcZFc4xuDU9EZ5pmAEsvcE3fgsHumMS6hPOcXdYlHQQwpdzjgSNurXsqKOiaWDzLLlklcAj74HDM84OW8kFVXxmqC/aOpjW0OoG/N0Tt8ihICxl8UsYMw=="
+  "releaseSignature": "ZVk4tgX6iJigJEL3A3bXWwLtr3r7D+HQQN3y04EphfZ4Pf3FkMqwej5EQ+RrjZEKClfOG7MoTCEIvVstarw/KBetsiEM1oTewmHEql3vyh60njjAKGkpEdOFcz0FFKcYi2VGL5iHazEHXiW5ZZfmBURthYFajAEUWEZ7HdnG+7JkZZZcqoEitY9xtYWUS3JRLzk4hnHeGTVYrvVRc1nCaarI/ecb0cKvIMcdD2dWzuTubRjN41KLGnlwCngdQuselBgeudbfDwjOcQT+K99I0UosNTZsvgo9CreiMxN3tHLt2VoMJmVi6tZ5ic9naMxFhlOUmf0v0YJ7Z8pPTgA84Q==",
+  "machineSize": 67522560,
+  "machineSha256": "3187afa496174a118a1aad2bb0c33d98fcb31edc9b4033fb51ad1450cf195c86",
+  "machineFrom": "315d4fe569259fed480bbb7f84f70cf9d6d155fe0c77b4e29349671e0c64ef17,38d1c12dacbff47dde383e2ec42ae063bf3884d607a0add796e54dc880c664cb,3bd9029bfb4cf288da165166f1181050c30057ca7af1a637076b81691ae9af62,6cf4e715267d317912394f5c6268f750adfc0207b2f9393920dc8d31199cfef9",
+  "machineSignature": "hBQOzH8mQIl8HlB54fDFEa4pv/pFnhlqm7CG8q6M9GQIT6o1baRpmwxjSozQSnJYH2SbX/PulvUdKk9lacN2pLH0373bnG52f/lZ1GgXx5CN/g6nPmMVVFrnWa87bW1od3FvMqwxRSlvGRqp8jogSQ5qQUC1+hCikh+r1wwA6yoygUtVrEgtpy629ZWdnRJPUME4I7Z6+ZgPPsYpNg4H5w7IDFFtj8B++uB3r40OO5ym3Elx/TYYOlglJLaE3uzQ2v9y1QvoOX/GUqS5lcw7CEisc+5jy+Pr+p8FmzydYjEaZ+k5nqsU4mvFtgIHHxRcmrTFW/HxAdlwJYOGz0pLMw=="
 }
