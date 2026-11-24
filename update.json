@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "product": "LinBainuoToolbox",
-  "build": 15,
-  "version": "V0.0.2 beta",
-  "tag": "v0.0.2-r1",
-  "downloadUrl": "https://github.com/Linbainuo/toolbox-releases/releases/download/v0.0.2-r1/LinBainuoToolbox.exe",
-  "sha256": "6cf4e715267d317912394f5c6268f750adfc0207b2f9393920dc8d31199cfef9",
-  "size": 53832704,
-  "notes": "- 新增紧急修复功能，重要修复自动生效；\n- 优化整包更新流程，更新后自动重启；\n- 修复一些已知问题。\n",
-  "mandatory": true
+  "build": 52,
+  "version": "V0.0.3 beta",
+  "tag": "v0.0.3",
+  "downloadUrl": "https://github.com/Linbainuo/toolbox-releases/releases/download/v0.0.3/LinBainuoToolbox.exe",
+  "sha256": "3bd9029bfb4cf288da165166f1181050c30057ca7af1a637076b81691ae9af62",
+  "size": 72317952,
+  "notes": "新增 Blender「Visual Auto Normals」插件和 Painter「Pianter_tools」插件。\nPainter–Stager Link 更新至 1.5.26，支持单独发送当前纹理集。Stager 安装和修复会调用同一份 Painter 插件安装器。\n插件安装页支持选择目标软件版本、更新和卸载。Painter 分类新增崩溃诊断入口。\n更新插件封面和演示视频。进入软件分类后，插件卡片会随指针轻微倾斜。\n",
+  "mandatory": false
 }
