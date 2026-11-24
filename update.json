@@ -1,12 +1,13 @@
 {
   "schema": 1,
   "product": "LinBainuoToolbox",
-  "build": 52,
+  "build": 53,
   "version": "V0.0.3 beta",
-  "tag": "v0.0.3",
-  "downloadUrl": "https://github.com/Linbainuo/toolbox-releases/releases/download/v0.0.3/LinBainuoToolbox.exe",
-  "sha256": "3bd9029bfb4cf288da165166f1181050c30057ca7af1a637076b81691ae9af62",
-  "size": 72317952,
-  "notes": "新增 Blender「Visual Auto Normals」插件和 Painter「Pianter_tools」插件。\nPainter–Stager Link 更新至 1.5.26，支持单独发送当前纹理集。Stager 安装和修复会调用同一份 Painter 插件安装器。\n插件安装页支持选择目标软件版本、更新和卸载。Painter 分类新增崩溃诊断入口。\n更新插件封面和演示视频。进入软件分类后，插件卡片会随指针轻微倾斜。\n",
-  "mandatory": false
+  "tag": "v0.0.3-r2",
+  "downloadUrl": "https://github.com/Linbainuo/toolbox-releases/releases/download/v0.0.3-r2/LinBainuoToolbox.exe",
+  "sha256": "315d4fe569259fed480bbb7f84f70cf9d6d155fe0c77b4e29349671e0c64ef17",
+  "size": 72346624,
+  "notes": "修复工具箱安装在 Program Files 等受限目录时更新失败的问题。新版会自动把更新安装到当前用户，并启动新版本。\n已经在旧版遇到“访问被拒绝”的用户，可运行本次发布的 LinBainuoToolboxSetup.exe。它会自动下载安装并创建工具箱快捷方式。\n",
+  "mandatory": false,
+  "releaseSignature": "VFkvXtxiKqxteK3N2dP/8k5B4AXkDGAGxEAViKb5hJkN+LZZSEL43bhifbCzcbsHzN/9cj/vsY53bkyE43J3pnuanYatpv3QPZMG6R21Yzourr5ILqYBPOjlqc0WlTNCzQMck5CVlWxSHFVsbPJN3sgCIOPlo6hvupeaeHOa2pQojAqIkoyBlNKyzhjVhtivIglCTfMpIyU85KRV49Bsydxpy9jcP1t+KPcZFc4xuDU9EZ5pmAEsvcE3fgsHumMS6hPOcXdYlHQQwpdzjgSNurXsqKOiaWDzLLlklcAj74HDM84OW8kFVXxmqC/aOpjW0OoG/N0Tt8ihICxl8UsYMw=="
 }
